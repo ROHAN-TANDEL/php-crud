@@ -2,51 +2,51 @@
 ## actively working in IT Industry - since 2016
 
 #### Profile Summary +
-Experienced in educational, medical, food and music industry Actively looking for a position as a software engineer in a solid shining edge firm to contribute and earn growth of skills in the IT industry
+###### Experienced in educational, medical, food and music industry Actively looking for a position as a software engineer in a solid shining edge firm to contribute and earn growth of skills in the IT industry
 
 #### Accomplishments + 
-Have involved successfully in architecture design termed microservice Efficient dealing with clients, flexible with SE models...  and event driven 
+###### Have involved successfully in architecture design termed microservice Efficient dealing with clients, flexible with SE models...  and event driven 
 
-Perfect Leadership leading 2 teams. Added With good skills for debugging, mentoring and bringing the delivery on time...
+###### Perfect Leadership leading 2 teams. Added With good skills for debugging, mentoring and bringing the delivery on time...
 
-Efficient development factor, Process oriented, dealing with internal/external clients to discuss and determine specific requirements...
+###### Efficient development factor, Process oriented, dealing with internal/external clients to discuss and determine specific requirements...
 
-Given seminars and conducted sessions on application design, efficient code practice and javascript libraries.  Involved  in organization’s selection process of conducting interviews
+###### Given seminars and conducted sessions on application design, efficient code practice and javascript libraries.  Involved  in organization’s selection process of conducting interviews
 
-Worked on high data  with 0.51M user base. provided solutions to the remote team utilizing a stack of communications tools  ensuring uninterrupted results.
+###### Worked on high data  with 0.51M user base. provided solutions to the remote team utilizing a stack of communications tools  ensuring uninterrupted results.
 
 #### Key Skills +
-Languages : PHP 7, python, Javascript, Typescript, Shell Scripting, SQL, golang
+###### Languages : PHP 7, python, Javascript, Typescript, Shell Scripting, SQL, golang
 
-Framework: Laravel 5.7, prestashop 1.8, Codeigniter 3.0, ExpressJs, DJango
+###### Framework: Laravel 5.7, prestashop 1.8, Codeigniter 3.0, ExpressJs, DJango
 
-Database: MYSQL, MongoDB, Elasticsearch, Redis, Memcached
+###### Database: MYSQL, MongoDB, Elasticsearch, Redis, Memcached
 
-Clouds: AWS
+###### Clouds: AWS
 
-App Architecture: microservices 
+###### App Architecture: microservices 
 
-Version Control: GIT, BITBUCKET    
+###### Version Control: GIT, BITBUCKET    
 
-engines: NodeJs
+###### engines: NodeJs
 
-Design: Wireframe Design, Photoshop, PPT
+###### Design: Wireframe Design, Photoshop, PPT
 
-Js Libraries: Jquery, PopperJs, socketIO 
+###### Js Libraries: Jquery, PopperJs, socketIO 
 
-Web Technologies: HTML5, CSS3, Bootstrap 4, AJAX
+###### Web Technologies: HTML5, CSS3, Bootstrap 4, AJAX
 
-Testing: Jmeter, Postman Payment Gateways: Interpay, PayPal, Stripe...
+###### Testing: Jmeter, Postman Payment Gateways: Interpay, PayPal, Stripe...
 
-Network: WireShark, Nmap, Zabbix, Jenkins     Server: Apache | httpd, NGINX 
+###### Network: WireShark, Nmap, Zabbix, Jenkins     Server: Apache | httpd, NGINX 
 
-OS: Linux  (Kernel version 3.0 +)  Web Services: REST APIs  Other APIs: 24x7 API, Open API
+###### OS: Linux  (Kernel version 3.0 +)  Web Services: REST APIs  Other APIs: 24x7 API, Open API
 
-Social Networks: Facebook, Google, LinkedIn, Twitter
+###### Social Networks: Facebook, Google, LinkedIn, Twitter
 
-Misc: Slack, Redmine, OS and Server Installation, configuration. Sequence
+###### Misc: Slack, Redmine, OS and Server Installation, configuration. Sequence
 
-and ER Diagrams, UML, Knowledge of Design Prototype and Agile model, PPTs…
+###### and ER Diagrams, UML, Knowledge of Design Prototype and Agile model, PPTs…
 
 
 
@@ -55,13 +55,16 @@ and ER Diagrams, UML, Knowledge of Design Prototype and Agile model, PPTs…
 
 2020 - MChat - Era Chat App. Node
 
+
 #### Scholastic and Company + 
 
-Graduated from Visveswaraiah Technological University KA Ind
+###### Graduated from Visveswaraiah Technological University KA Ind
 
-Current company SB private Limited Hyderabad (Madhapur) TN Ind
+###### Current company SB private Limited Hyderabad (Madhapur) TN Ind
+
 
 #### Major Projects +								Total-Project 10+ 
+
 
 Mindspark
 #### Full Stack Web Developer
