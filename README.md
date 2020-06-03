@@ -42,7 +42,9 @@ Network: WireShark, Nmap, Zabbix, Jenkins
 
 Server: Apache or httpd, NGINX
 
-OS: Linux  (Kernel version 3.0 +)  Web Services: REST APIs  Other APIs: 24x7 API, Open API
+OS: Linux  (Kernel version 3.0 +)  
+
+Web Services: REST APIs  Other APIs: 24x7 API, Open API
 
 Social Networks: Facebook, Google, LinkedIn, Twitter
 
