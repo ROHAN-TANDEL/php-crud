@@ -38,7 +38,9 @@ Web Technologies: HTML5, CSS3, Bootstrap 4, AJAX
 
 Testing: Jmeter, Postman Payment Gateways: Interpay, PayPal, Stripe...
 
-Network: WireShark, Nmap, Zabbix, Jenkins     Server: Apache | httpd, NGINX 
+Network: WireShark, Nmap, Zabbix, Jenkins
+
+Server: Apache or httpd, NGINX
 
 OS: Linux  (Kernel version 3.0 +)  Web Services: REST APIs  Other APIs: 24x7 API, Open API
 
