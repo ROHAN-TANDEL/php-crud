@@ -1,26 +1,26 @@
 # Rohan Tandel
 ## actively working in IT Industry - since 2016
 
-#### Profile Summary +
-###### Experienced in educational, medical, food and music industry Actively looking for a position as a software engineer in a solid shining edge firm to contribute and earn growth of skills in the IT industry
+### Profile Summary +
+#### Experienced in educational, medical, food and music industry Actively looking for a position as a software engineer in a solid shining edge firm to contribute and earn growth of skills in the IT industry
 
-#### Accomplishments + 
-###### Have involved successfully in architecture design termed microservice Efficient dealing with clients, flexible with SE models...  and event driven 
+### Accomplishments + 
+#### Have involved successfully in architecture design termed microservice Efficient dealing with clients, flexible with SE models...  and event driven 
 
-###### Perfect Leadership leading 2 teams. Added With good skills for debugging, mentoring and bringing the delivery on time...
+#### Perfect Leadership leading 2 teams. Added With good skills for debugging, mentoring and bringing the delivery on time...
 
-###### Efficient development factor, Process oriented, dealing with internal/external clients to discuss and determine specific requirements...
+#### Efficient development factor, Process oriented, dealing with internal/external clients to discuss and determine specific requirements...
 
-###### Given seminars and conducted sessions on application design, efficient code practice and javascript libraries.  Involved  in organization’s selection process of conducting interviews
+#### Given seminars and conducted sessions on application design, efficient code practice and javascript libraries.  Involved  in organization’s selection process of conducting interviews
 
-###### Worked on high data  with 0.51M user base. provided solutions to the remote team utilizing a stack of communications tools  ensuring uninterrupted results.
+#### Worked on high data  with 0.51M user base. provided solutions to the remote team utilizing a stack of communications tools  ensuring uninterrupted results.
 
-#### Key Skills +
-###### Languages : PHP 7, python, Javascript, Typescript, Shell Scripting, SQL, golang
+### Key Skills +
+#### Languages : PHP 7, python, Javascript, Typescript, Shell Scripting, SQL, golang
 
-###### Framework: Laravel 5.7, prestashop 1.8, Codeigniter 3.0, ExpressJs, DJango
+#### Framework: Laravel 5.7, prestashop 1.8, Codeigniter 3.0, ExpressJs, DJango
 
-###### Database: MYSQL, MongoDB, Elasticsearch, Redis, Memcached
+#### Database: MYSQL, MongoDB, Elasticsearch, Redis, Memcached
 
 ###### Clouds: AWS
 
